@@ -1,0 +1,22 @@
+<resources>
+
+    <color name="text_blue_color">#0F6A9F</color>
+    <color name="bg_grey_color">#E6E6E6</color>
+    <color name="ColorPrimary">#FFFFFF</color>
+    <color name="ColorPrimaryDark">#43427C</color>
+    <color name="tabsScrollColor">#EE4E4E</color>
+    <color name="tabsScrollColor1">#CFCDCE</color>
+    <color name="red">#FF0000</color>
+    <color name="status_color">#F1F1F1</color>
+    <color name="backgoround">#70F6D1</color>
+    <color name="payer_status_bar">#B45A42</color>
+    <color name="textcolor">#43427C</color>
+    <color name="color_text">#00007A</color>
+    <color name="toggle_color">#8CC63E</color>
+    <color name="toolbar_color">#F1F1F1</color>
+    <color name="text_side_bar">#0099EF</color>
+    <color name="light_blue_color">#0F699D</color>
+    <color name="green_shining">#01FF23</color>
+    <color name="pink">#FF6889</color>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu_items">
+        <item>My Profile</item>
+        <item>Messages</item>
+        <item>Find Family</item>
+        <item>Find Aupair</item>
+        <item>Contact Us</item>
+        <item>Logout</item>
+    </string-array>
+
+</resources>

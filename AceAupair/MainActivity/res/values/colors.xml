@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ColorPrimary">#FFFFFF</color>
+    <color name="ColorPrimaryDark">#43427C</color>
+    <color name="tabsScrollColor">#EE4E4E</color>
+      <color name="tabsScrollColor1">#CFCDCE</color>
+    <color name="red">#FF0000</color>
+    <color name="status_color">#FFFFFF</color>
+    <color name="backgoround">#70F6D1</color>
+    <color name="payer_status_bar">#B45A42</color>
+    <color name="textcolor">#43427C</color>
+    <color name="color_text">#00007A</color>
+    <color name="toggle_color">#8CC63E</color>
+
+</resources>
